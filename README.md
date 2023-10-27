@@ -1,1 +1,1 @@
-# inverse-distance-attention
+# Inverse distance weighting attention
